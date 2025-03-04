@@ -1,3 +1,4 @@
 # generating_cat_model
-this model is able to generate picure of a cat.
-each time at the input, the model recives a vector of 
+This model is designed to generate images of cats. Each time it receives a 50-component vector of Gaussian noise as input, it produces a unique, adorable cat image as output. While it may not be highly practical for real-world applications, it serves as an excellent learning tool for students exploring the fundamentals of generative models.
+![image](https://github.com/user-attachments/assets/1520e215-cf3b-4065-9b7d-493113e8b6cc)
+ 
